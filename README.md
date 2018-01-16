@@ -9,3 +9,5 @@ My responsibilities:
 •	Assisted in managing the product and sprint backlogs; also aided to develop the System and Data model
 •	Designed the wireframes or prototype screens for the system; helped the client with design walkthrough
 •	Rendered Team and Project Management skills by applying theoretical knowledge into practice while working for real-time clients
+
+Tools used: JustInMind
